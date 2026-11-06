@@ -1,7 +1,6 @@
 # APDCL Bill Estimator
 
 An Android-based mobile application designed to help users estimate their electricity bills based on household appliance usage and star ratings. The application enables users to make informed decisions by comparing energy consumption between different energy-efficient appliances, with real-time calculations and visual data representation.
-
 ---
 
 ## 📱 Overview
