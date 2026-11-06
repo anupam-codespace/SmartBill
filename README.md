@@ -11,7 +11,6 @@ With rising electricity costs and a growing focus on sustainability, this projec
 - Appliance-wise energy consumption tracking
 - Star-rating-based comparisons
 - Monthly bill estimation based on real tariff data
-
 ---
 
 ## 🔧 Technologies Used
