@@ -11,7 +11,6 @@ With rising electricity costs and a growing focus on sustainability, this projec
 - Star-rating-based comparisons
 - Monthly bill estimation based on real tariff data
 ---
-
 ## 🔧 Technologies Used
 
 | Layer         | Technology           |
@@ -23,7 +22,6 @@ With rising electricity costs and a growing focus on sustainability, this projec
 | UI Design     | Custom XML + Figma Prototypes |
 
 ---
-
 ## ✨ Key Features
 
 - Dropdown-based appliance and rating selection
